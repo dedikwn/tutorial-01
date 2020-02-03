@@ -1,3 +1,4 @@
 NPM     : 1806269650
 Nama    : Dedik Wahyu Nurcahyo
 Jurusan : Sistem Informasi
+Angkatan: 2018
